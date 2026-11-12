@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/coolest-art-01/irwan11795/makefun-coolest-art-01/rank.svg)](https://make.fun/bounty/coolest-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 [![reward](https://make.fun/badge/coolest-art-01/irwan11795/makefun-coolest-art-01/reward.svg)](https://make.fun/bounty/coolest-art-01?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 
-A lone knight in ornate silver armor on horseback, silhouetted against a supernova explosion in deep space — an epic digital painting of a knight riding through the stars, with the Earth far below.
+A tiny figure striking a giant matchstick against a colossal full moon, the match flaring into a huge flame that lights the moon like a candle — rainbow light leaking from cracks in the moon across a dark starry sky.
 
 ## Run it
 
