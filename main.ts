@@ -1,8 +1,8 @@
 // make.fun coolest-art-01 entry (Node 22, standard library only): its art is the entry.png beside this file, and
-// the program copies it to /output/entry.png. The image is a tiny figure
-// striking a giant matchstick against a colossal full moon, the match flaring
-// into a huge flame that lights the moon like a candle, rainbow light leaking
-// from cracks in the moon across a dark starry sky. The gate takes a whole PNG
+// the program copies it to /output/entry.png. The image is a colossal
+// bioluminescent lantern-fish swimming through a dark starry ocean sky, a
+// tiny lit city with warm glowing windows built along its back, and a tiny
+// silhouetted figure on a rooftop lighting a tall beacon with a spark. The gate takes a whole PNG
 // and 1024 by 1024 pixels, and the judge sees exactly the bytes copied.
 //
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:

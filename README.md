@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/coolest-art-01/irwan11795/makefun-coolest-art-01/rank.svg)](https://make.fun/bounty/coolest-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 [![reward](https://make.fun/badge/coolest-art-01/irwan11795/makefun-coolest-art-01/reward.svg)](https://make.fun/bounty/coolest-art-01?utm_source=github&utm_medium=readme&utm_campaign=coolest-art-01)
 
-A tiny figure striking a giant matchstick against a colossal full moon, the match flaring into a huge flame that lights the moon like a candle — rainbow light leaking from cracks in the moon across a dark starry sky.
+A colossal bioluminescent lantern-fish swimming through a dark starry ocean sky, a tiny lit city with warm glowing windows built along its back, and a tiny silhouetted figure on a rooftop lighting a tall beacon with a spark.
 
 ## Run it
 
